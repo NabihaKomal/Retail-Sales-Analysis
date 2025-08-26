@@ -82,6 +82,12 @@ This project analyzes a retail sales dataset using Python, Pandas, Matplotlib, a
 
 ## Screenshots
 
+![Bar Plot of Total Sales by Product Category](plots/barplot.png)
+![Box Plot of Sales Distribution by Gender](plots/boxplot.png)
+![Histogram of Customer Age Distribution](plots/histogram.png)
+![Line Plot of Total Sales Over Time](plots/lineplot.png)
+![Correlation Heatmap of Numerical Features](plots/heatmap.png)
+
 ## License
 
 MIT License
