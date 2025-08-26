@@ -80,13 +80,15 @@ This project analyzes a retail sales dataset using Python, Pandas, Matplotlib, a
 - Visualizations reveal sales trends, customer demographics, and correlations.
 - Key insights include top-performing product categories and spending patterns by gender and age.
 
-## Screenshots
 
-![Bar Plot of Total Sales by Product Category](plots/barplot.png)
-![Box Plot of Sales Distribution by Gender](plots/boxplot.png)
-![Histogram of Customer Age Distribution](plots/histogram.png)
-![Line Plot of Total Sales Over Time](plots/lineplot.png)
-![Correlation Heatmap of Numerical Features](plots/heatmap.png)
+## Screenshots
+<img src="plots/barplot.png" alt="Sales by Category(barplot)" width="500">
+<img src="plots/boxplot.png" alt="Sales by Gender" width="500">
+<img src="plots/histogram.png" alt="Age Distribution" width="500">
+<img src="plots/lineplot.png" alt="Sales Over Time" width="500">
+<img src="plots/heatmap.png" alt="Correlation Heatmap" width="500">
+
+
 
 ## License
 
